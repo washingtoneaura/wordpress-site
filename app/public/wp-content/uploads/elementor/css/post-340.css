@@ -1,0 +1,105 @@
+.elementor-340 .elementor-element.elementor-element-75aafcba{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 35px 145px 35px;}.elementor-340 .elementor-element.elementor-element-75aafcba > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-title a{color:var( --e-global-color-text );font-size:25px;font-weight:bold;line-height:1.6em;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-title{margin-bottom:30px;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-info a, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-info{color:var( --e-global-color-accent );}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-info, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-info a{font-size:16px;font-weight:500;line-height:1.5em;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-info{margin-bottom:40px;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-content{color:var( --e-global-color-text );font-size:16px;font-weight:500;line-height:1.5em;margin-bottom:0px;}.elementor-340 .elementor-element.elementor-element-16a91928 .column-entry{padding:0px 0px 0px 0px;}.elementor-340 .elementor-element.elementor-element-16a91928 .type-post .entry-main{padding:0% 13% 20% 13%;}.elementor-340 .elementor-element.elementor-element-16a91928{text-align:left;animation-duration:2000ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more{background-color:var( --e-global-color-primary );box-shadow:-15px 20px 50px 0px rgba(95.99999999999984, 0.9999999999999869, 211, 0.30196078431372547);color:#FFFFFF;text-shadow:0px 0px 10px rgba(0,0,0,0.3);font-size:15px;line-height:1em;letter-spacing:-0.32px;padding:20px 48px 20px 47px;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more:hover{background-color:var( --e-global-color-secondary );box-shadow:-15px 20px 50px 0px rgba(253, 51.999999999999986, 109.99999999999996, 0.30196078431372547);}@media(max-width:1024px){.elementor-340 .elementor-element.elementor-element-16a91928 .entry-title{margin-bottom:0px;}.elementor-340 .elementor-element.elementor-element-16a91928 .entry-info{margin-bottom:10px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-16a91928 */.elementor-340 .elementor-element.elementor-element-16a91928 .entry-main{
+    position: absolute;
+    bottom: 12%;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .entry-content{
+    max-width: 365px;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .aux-widget-recent-posts .aux-match-height .aux-col{
+    margin-bottom:10px;
+    padding-right: 20px;
+    padding-left: 20px
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .aux-widget-recent-posts .post .entry-media{
+    margin-bottom: 0;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .aux-read-more:after{
+    display: none;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more {
+    border-radius: 30px;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .entry-info i,.elementor-340 .elementor-element.elementor-element-16a91928 .entry-info .post-edit-link {
+    display: none
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .entry-media img{
+    opacity: 70%;
+    border-radius: 
+    }
+.elementor-340 .elementor-element.elementor-element-16a91928 .entry-media {
+    background-color:#081420;
+    border-radius: 20px;
+    opacity: 0;
+    transition: all 300ms ease-out;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .post:hover .entry-media{
+    opacity: 1
+}
+
+.elementor-340 .elementor-element.elementor-element-16a91928 .post:hover .entry-title a,.elementor-340 .elementor-element.elementor-element-16a91928 .post:hover .entry-date a,.elementor-340 .elementor-element.elementor-element-16a91928 .post:hover .entry-content{
+    color: #FFFFFF!important;
+    transition: all 300ms ease-out;
+}
+.elementor-340 .elementor-element.elementor-element-16a91928 .post:hover .entry-meta .aux-read-more{
+    background-color: 
+    var( --e-global-color-secondary );
+    box-shadow: -15px 20px 50px 0px #FD346E4D; 
+     transition: all 300ms ease-out;
+}
+@media only  screen and (max-width:1400px) and (min-width:1025px){
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-title a{
+        font-size:18px;
+        
+            }
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-date a, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-content,.elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more{
+        font-size:14px;
+    }  
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-info, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-title{
+        margin-bottom:10px;
+        
+    }
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-main{
+    bottom: 5%;
+}
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more {
+        padding:13px 25px;
+    }
+}
+@media only  screen and (max-width:900px) and (min-width:768px){
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-title a{
+        font-size:18px;
+        
+            }
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-date a, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-content,.elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more{
+        font-size:14px;
+    }  
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-info, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-title{
+        margin-bottom:10px;
+        
+    }
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-main{
+    bottom: 5%;
+}
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more {
+        padding:13px 25px;
+    }
+}
+@media only  screen and (max-width:500px){
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-title a{
+        font-size:18px;
+        
+            }
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-date a, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-content,.elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more{
+        font-size:14px;
+    }  
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-info, .elementor-340 .elementor-element.elementor-element-16a91928 .entry-title{
+        margin-bottom:10px;
+        
+    }
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-main{
+    bottom: 5%;
+}
+    .elementor-340 .elementor-element.elementor-element-16a91928 .entry-meta .aux-read-more {
+        padding:13px 25px;
+    }
+}/* End custom CSS */
